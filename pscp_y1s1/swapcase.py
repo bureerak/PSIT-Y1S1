@@ -1,0 +1,2 @@
+""" swapcase """
+print((input()).swapcase())

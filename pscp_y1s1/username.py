@@ -1,0 +1,2 @@
+""" Username """
+print((input()).lower())
